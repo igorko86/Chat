@@ -1,0 +1,49 @@
+.chat-input {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  button {
+    padding: 0 5px;
+  }
+  .ant-btn {
+    font-size: 22px;
+    opacity: 1;
+    cursor: pointer;
+    color: #ADADAD;
+  }
+  .ant-btn:hover {
+    opacity: 0.4;
+  }
+  
+  &__smile-btn, &__actions {
+    i {
+      font-size: 22px;
+      cursor: pointer;
+    }
+  }
+  &__actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__emoji-picker {
+    position: absolute;
+    bottom: 78px;
+    z-index: 1;
+
+    section {
+      padding: 5px;
+    }
+  }
+
+  &__smile-btn {
+    margin-right: 5px;
+
+  }
+
+  .ant-input-lg {
+    height: 35px;
+  }
+}

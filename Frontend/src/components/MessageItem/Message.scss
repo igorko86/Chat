@@ -1,0 +1,179 @@
+
+.message {
+  $self: &;
+
+  display: flex;
+  width: 100%;
+
+  &__avatar {
+    img {
+      width: 58px;
+      height: 58px;
+      border-radius: 50%;
+    }
+  }
+
+  &__content {
+    max-width: 400px;
+    min-width: 50px;
+    padding: 10px;
+  }
+
+  &__bubble {
+    background-color: #ADADAD;
+    border-radius: 0px 20px 20px 20px;
+    min-height: 40px;
+    min-width: 70px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 5px 5px #ADADAD;
+  }
+
+  &__typing {
+    margin: auto;
+    span {
+      height: 8px;
+      width: 8px;
+      margin: 0 1px;
+      background-color: #202020;
+      display: inline-block;
+      border-radius: 50%;
+      opacity: 0.4;
+      @for $i from 1 through 3 {
+        &:nth-of-type(#{$i}) {
+          animation: 1s blink infinite ($i * .3333s);
+        }
+      }
+    }
+    @keyframes blink {
+      50% {
+        opacity: 1;
+      }
+    }
+
+    @keyframes bulge {
+      50% {
+        transform: scale(1.05);
+      }
+    }
+
+  }
+
+  &__text {
+    margin: 12px;
+    word-wrap: break-word
+  }
+
+  &__attachment {
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  &__attachment-item {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 5px;
+  }
+
+  &__attachment-item:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+
+
+
+  &__is-audio {
+    #{$self}__bubble {
+      width: 250px;
+      overflow: hidden;
+    }
+    #{$self}__audio:hover {
+      box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    }
+    #{$self}__audio {
+      position: relative;
+      border-radius: 20px;
+      border: 1px solid #ddd;
+      padding: 5px;
+      margin: 5px;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      audio {
+        display: none;
+      }
+      margin: 10px;
+      &-info {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        position: relative;
+      }
+
+      &-btn {
+        button {
+          cursor: pointer;
+          border: 0;
+          width: 28px;
+          height: 28px;
+          border-radius: 30px;
+          background: #202020;
+          display: flex;
+          justify-content: center;
+
+          img {
+            height: 11px;
+          }
+        }
+      }
+      &-duration {
+        color: #ffffff;
+        font-weight: bold;
+        opacity: 0.5;
+        font-size: 12px;
+        margin-right: 2px;
+      }
+      &-progress {
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        background-color: #8384866b;
+        transition: width 0.5s ease;
+      }
+    }
+  }
+  &__date, &__name{
+    display: block;
+    margin-top: 10px;
+    font-size: 10px;
+    opacity: 0.4;
+  }
+
+  &__isme {
+    display: flex;
+    flex-direction: row-reverse;
+
+    #{$self}__name {
+      text-align: right;
+    }
+
+    #{$self}__bubble {
+      border-radius: 20px 0px 20px 20px;
+      display: flex;
+      min-height: 40px;
+    }
+
+    #{$self}__date {
+      text-align: right;
+    }
+  }
+
+  &__checked {
+    width: 20px;
+    height: 20px;
+    margin-top: 34px;
+  }
+}

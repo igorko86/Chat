@@ -1,0 +1,92 @@
+.dialogs {
+
+  &__item {
+    $item: &;
+
+    display: flex;
+    border-bottom: 1px solid #f7f7f7;
+    color: #000000;
+
+    &:hover {
+      background-color: #f3f7ff;
+    }
+    &-selected, &-selected:hover {
+      background-color: #e5ebf7;
+    }
+
+    &-avatar {
+      display: block;
+      position: relative;
+      max-width: 20%;
+      margin-right: 8px;
+
+      img {
+        width: 58px;
+        height: 58px;
+        border-radius: 50%;
+      }
+    }
+
+    &-online {
+      #{$item}-avatar {
+        &::before {
+          display: block;
+          position: absolute;
+          bottom: 0;
+          right: 0;
+          content: '';
+          background-color: #00c980;
+          border-radius: 30px;
+          width: 16px;
+          height: 16px;
+          border: 3px solid #ffffff;
+          z-index: 1;
+        }
+      }
+    }
+
+    &-info {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+
+      &-top {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      &-fullName {
+        font-weight: bold;
+        max-width: 160px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+      }
+
+      &-date {
+        font-size: 10px;
+        opacity: 0.4;
+      }
+
+      &-bottom {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      &-text {
+        max-width: 190px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        margin: 0 10px 0 0;
+        opacity: 0.4;
+        font-size: 12px;
+      }
+
+      &-tick {
+        display: flex;
+      }
+    }
+  }
+}

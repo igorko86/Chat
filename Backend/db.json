@@ -1,0 +1,1120 @@
+{
+  "dialogs": [
+    {
+      "_id": 0.6017414951972662,
+      "dialogId": 5,
+      "user": {
+        "_id": 0.6181471518178525,
+        "fullName": "Ihor Mocherad",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isOnline": true
+      },
+      "message": {
+        "text": "Hello everyone",
+        "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+        "isRead": false,
+        "isMe": true
+      }
+    },
+      {
+        "_id": 0.6017414951972662,
+        "dialogId": 1,
+        "user": {
+          "_id": 0.6181471518178525,
+          "fullName": "Adamchuk Sergii",
+          "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+          "isOnline": true
+        },
+        "message": {
+          "text": "Hello everyone",
+          "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+          "isRead": false,
+          "isMe": true
+        }
+      },
+      {
+        "_id": 0.6017414951972662,
+        "dialogId": 3,
+        "user": {
+          "_id": 0.6181471518178525,
+          "fullName": "Snowsdfv",
+          "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+          "isOnline": true
+        },
+        "message": {
+          "text": "Hello everyone",
+          "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+          "isRead": false,
+          "isMe": true
+        }
+      },
+      {
+        "_id": 0.6017414951972662,
+        "dialogId": 2,
+        "user": {
+          "_id": 0.6181471518178525,
+          "fullName": "Snowsdfv",
+          "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+          "isOnline": true
+        },
+        "message": {
+          "text": "Hello everyone",
+          "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+          "isRead": false,
+          "isMe": true
+        }
+      },
+      {
+        "_id": 0.6017414951972662,
+        "dialogId": 3,
+        "user": {
+          "_id": 0.6181471518178525,
+          "fullName": "Snowsdfv",
+          "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+          "isOnline": true
+        },
+        "message": {
+          "text": "Hello everyone",
+          "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+          "isRead": false,
+          "isMe": true
+        }
+      },
+      {
+        "_id": 0.6017414951972662,
+        "dialogId": 3,
+        "user": {
+          "_id": 0.6181471518178525,
+          "fullName": "Snowsdfv",
+          "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+          "isOnline": true
+        },
+        "message": {
+          "text": "Hello everyone",
+          "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+          "isRead": false,
+          "isMe": true
+        }
+      },
+    {
+      "_id": 0.6017414951972662,
+      "dialogId": 5,
+      "user": {
+        "_id": 0.6181471518178525,
+        "fullName": "Ihor Mocherad",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isOnline": true
+      },
+      "message": {
+        "text": "Hello everyone",
+        "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+        "isRead": false,
+        "isMe": true
+      }
+    },
+    {
+      "_id": 0.6017414951972662,
+      "dialogId": 1,
+      "user": {
+        "_id": 0.6181471518178525,
+        "fullName": "Adamchuk Sergii",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isOnline": true
+      },
+      "message": {
+        "text": "Hello everyone",
+        "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+        "isRead": false,
+        "isMe": true
+      }
+    },
+    {
+      "_id": 0.6017414951972662,
+      "dialogId": 3,
+      "user": {
+        "_id": 0.6181471518178525,
+        "fullName": "Snowsdfv",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isOnline": true
+      },
+      "message": {
+        "text": "Hello everyone",
+        "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+        "isRead": false,
+        "isMe": true
+      }
+    },
+    {
+      "_id": 0.6017414951972662,
+      "dialogId": 2,
+      "user": {
+        "_id": 0.6181471518178525,
+        "fullName": "Snowsdfv",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isOnline": true
+      },
+      "message": {
+        "text": "Hello everyone",
+        "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+        "isRead": false,
+        "isMe": true
+      }
+    },
+    {
+      "_id": 0.6017414951972662,
+      "dialogId": 3,
+      "user": {
+        "_id": 0.6181471518178525,
+        "fullName": "Snowsdfv",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isOnline": true
+      },
+      "message": {
+        "text": "Hello everyone",
+        "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+        "isRead": false,
+        "isMe": true
+      }
+    },
+    {
+      "_id": 0.6017414951972662,
+      "dialogId": 3,
+      "user": {
+        "_id": 0.6181471518178525,
+        "fullName": "Snowsdfv",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isOnline": true
+      },
+      "message": {
+        "text": "Hello everyone",
+        "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+        "isRead": false,
+        "isMe": true
+      }
+    }
+    ],
+  "messages" : [
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hasdcsadc  werg wrtg ethhhhhhh e 56y hetyyyyyyyyyyyyyyyyyy eh ert ow are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hoasxa    wq4fq q43g          w34t w45t         35t 34t q34t          q34tw are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Howaxsssssssssssssssssss awddddddd wefffffffffffffffff         \"avatar\": \"https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png\",\n wwwwwrrr are you?",
+      "isTyping": false,
+      "isRead": true,
+      "attachment": [
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        }
+      ],
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 3
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hasdcsadc  werg wrtg ethhhhhhh e 56y hetyyyyyyyyyyyyyyyyyy eh ert ow are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hoasxa    wq4fq q43g          w34t w45t         35t 34t q34t          q34tw are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 3
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Howaxsssssssssssssssssss awddddddd wefffffffffffffffff         \"avatar\": \"https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png\",\n wwwwwrrr are you?",
+      "isTyping": false,
+      "isRead": true,
+      "attachment": [
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        }
+      ],
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 3
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hasdcsadc  werg wrtg ethhhhhhh e 56y hetyyyyyyyyyyyyyyyyyy eh ert ow are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hoasxa    wq4fq q43g          w34t w45t         35t 34t q34t          q34tw are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Howaxsssssssssssssssssss awddddddd wefffffffffffffffff         \"avatar\": \"https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png\",\n wwwwwrrr are you?",
+      "isTyping": false,
+      "isRead": true,
+      "attachment": [
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        }
+      ],
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 3
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hasdcsadc  werg wrtg ethhhhhhh e 56y hetyyyyyyyyyyyyyyyyyy eh ert ow are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hoasxa    wq4fq q43g          w34t w45t         35t 34t q34t          q34tw are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 3
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Howaxsssssssssssssssssss awddddddd wefffffffffffffffff         \"avatar\": \"https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png\",\n wwwwwrrr are you?",
+      "isTyping": false,
+      "isRead": true,
+      "attachment": [
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        }
+      ],
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 3
+    },
+    {
+      "_id": 0.6017414951972662,
+      "dialogId": 1,
+      "user": {
+        "_id": 0.6181471518178525,
+        "fullName": "Snowsdfv",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isOnline": true
+      },
+      "message": {
+        "text": "Hello everyone",
+        "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+        "isRead": false,
+        "isMe": true
+      }
+    },
+    {
+      "_id": 0.6017414951972662,
+      "dialogId": 3,
+      "user": {
+        "_id": 0.6181471518178525,
+        "fullName": "Snowsdfv",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isOnline": true
+      },
+      "message": {
+        "text": "Hello everyone",
+        "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+        "isRead": false,
+        "isMe": true
+      }
+    },
+    {
+      "_id": 0.6017414951972662,
+      "dialogId": 2,
+      "user": {
+        "_id": 0.6181471518178525,
+        "fullName": "Snowsdfv",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isOnline": true
+      },
+      "message": {
+        "text": "Hello everyone",
+        "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+        "isRead": false,
+        "isMe": true
+      }
+    },
+    {
+      "_id": 0.6017414951972662,
+      "dialogId": 3,
+      "user": {
+        "_id": 0.6181471518178525,
+        "fullName": "Snowsdfv",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isOnline": true
+      },
+      "message": {
+        "text": "Hello everyone",
+        "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+        "isRead": false,
+        "isMe": true
+      }
+    },
+    {
+      "_id": 0.6017414951972662,
+      "dialogId": 3,
+      "user": {
+        "_id": 0.6181471518178525,
+        "fullName": "Snowsdfv",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isOnline": true
+      },
+      "message": {
+        "text": "Hello everyone",
+        "created_at": "Sun May 03 2020 14:52:56 GMT+0300 (Eastern European Summer Time)",
+        "isRead": false,
+        "isMe": true
+      }
+    }
+  ],
+  "messages" : [
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hasdcsadc  werg wrtg ethhhhhhh e 56y hetyyyyyyyyyyyyyyyyyy eh ert ow are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hoasxa    wq4fq q43g          w34t w45t         35t 34t q34t          q34tw are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Howaxsssssssssssssssssss awddddddd wefffffffffffffffff         \"avatar\": \"https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png\",\n wwwwwrrr are you?",
+      "isTyping": false,
+      "isRead": true,
+      "attachment": [
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        }
+      ],
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 3
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hasdcsadc  werg wrtg ethhhhhhh e 56y hetyyyyyyyyyyyyyyyyyy eh ert ow are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hoasxa    wq4fq q43g          w34t w45t         35t 34t q34t          q34tw are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 3
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Howaxsssssssssssssssssss awddddddd wefffffffffffffffff         \"avatar\": \"https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png\",\n wwwwwrrr are you?",
+      "isTyping": false,
+      "isRead": true,
+      "attachment": [
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        }
+      ],
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 3
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hasdcsadc  werg wrtg ethhhhhhh e 56y hetyyyyyyyyyyyyyyyyyy eh ert ow are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hoasxa    wq4fq q43g          w34t w45t         35t 34t q34t          q34tw are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Howaxsssssssssssssssssss awddddddd wefffffffffffffffff         \"avatar\": \"https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png\",\n wwwwwrrr are you?",
+      "isTyping": false,
+      "isRead": true,
+      "attachment": [
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        }
+      ],
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 3
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hasdcsadc  werg wrtg ethhhhhhh e 56y hetyyyyyyyyyyyyyyyyyy eh ert ow are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 2
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! How are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": false
+      },
+      "dialogId": 1
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Hoasxa    wq4fq q43g          w34t w45t         35t 34t q34t          q34tw are you?",
+      "isTyping": false,
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 3
+    },
+    {
+      "_id": 0.6181471518178525,
+      "created_at": "Sat Apr 25 2019 19:45:32 GMT+0300 (Eastern European Summer Time)",
+      "text": " Hello Ihor! Howaxsssssssssssssssssss awddddddd wefffffffffffffffff         \"avatar\": \"https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png\",\n wwwwwrrr are you?",
+      "isTyping": false,
+      "isRead": true,
+      "attachment": [
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        },
+        {
+          "img": "https://source.unsplash.com/100x100/?nature,water"
+        }
+      ],
+      "user": {
+        "_id": 1,
+        "name": "Andjey",
+        "avatar": "https://cdn.vox-cdn.com/thumbor/vbxRVJGeYs4rAJp_dlN2Swx3eKg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19921093/mgidarccontentnick.comc008fa9d_d.png",
+        "isMe": true
+      },
+      "dialogId": 3
+    }
+  ]
+}
